@@ -13,11 +13,15 @@ demonstrate that individuals are susceptible to DKE in visual reasoning and judg
 their performance, while bottom performers overestimated their performance. In addition, we contribute novel analyses that correlate
 susceptibility of DKE with personality traits and user interactions. Our findings pave the way for novel modes of bias detection via
 interaction patterns and establish promising directions towards interventions tailored to an individual’s personality traits.
-## Interfaces
-The `Surveys` directory contains interfaces we used in the studies.
+## Interface
+The `Interface` directory contains screenshots of the interfaces utilized in both studies.
+## Data
+The `Data` directory contains cleaned datasets of participants' interactions from both studies, as well as car types and credit scores used in Study 2.
 ## Surveys
 The `Surveys` directory contains a PDF each for the pre- and post-survey questions asked to participants.
 ## Data Analysis
 The `Data Analysis` directory contains cleaned data and analysis scripts.
-
+## Supplemental Figures
+The `Supplemental Figures` directory contains a PDF of all supplemental analyses referenced in the paper.
 ## Citation
+TBA
