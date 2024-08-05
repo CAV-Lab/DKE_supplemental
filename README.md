@@ -16,11 +16,11 @@ interaction patterns and establish promising directions towards interventions ta
 ## Interface
 The `Interface` directory contains screenshots of the interfaces utilized in both studies.
 ## Data
-The `Data` directory contains cleaned datasets of participants' interactions from both studies, as well as car types and credit scores used in Study 2.
+The `Data` directory contains cleaned datasets of participants' interactions from both studies, as well as dataset of car types and credit scores used in Study 2.
 ## Surveys
 The `Surveys` directory contains a PDF each for the pre- and post-survey questions asked to participants.
 ## Data Analysis
-The `Data Analysis` directory contains cleaned data and analysis scripts.
+The `Data Analysis` directory contains analysis scripts.
 ## Supplemental Figures
 The `Supplemental Figures` directory contains a PDF of all supplemental analyses referenced in the paper.
 ## Citation
