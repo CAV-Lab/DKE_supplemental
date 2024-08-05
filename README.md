@@ -2,6 +2,7 @@
 This repo hosts the supplemental materials for our 2024 VIS research paper:
 
 Unmasking Dunning-Kruger Effect in Visual Reasoning & Judgment Mengyu Chen, Yijun Liu, and Emily Wall
+
 IEEE Transactions on Visualization and Computer Graphics (TVCG, Proc. IEEE VIS'24). 2024.
 ## Abstract
 The Dunning-Kruger Effect (DKE) is a metacognitive phenomenon where low-skilled individuals tend to overestimate
